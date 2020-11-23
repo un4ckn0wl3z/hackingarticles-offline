@@ -6,8 +6,9 @@ hackingarticles.in offline readable
 
 ###### update02 8:09 PM Sunday, December 15, 2562 BE (GMT+7) Time in Bangkok
 
-###### pin to last article -> Hiding Shell using PrependMigrate -Metasploit | https://www.hackingarticles.in/hiding-shell-using-prependmigrate-metasploit/
+###### update03 15:43 Monday, November 23, 2563 BE (GMT+7) Time in Bangkok
 
+###### pin to last article -> Linux For Beginners: A Small Guide | https://www.hackingarticles.in/linux-for-beginners-a-small-guide/
 
 ### Dumped by un4ckn0wl3z
 
